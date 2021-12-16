@@ -14,7 +14,7 @@ public class JenkinsSampleApplication {
 	
 	@PostConstruct
 	public void intt() {
-		logger.info("Application executing is going on!!!");
+		logger.info("Application executing is going on!!!")
 		
 	}
 	
